@@ -3,13 +3,13 @@
 "open_admob": "ca-app-pub-3940256099942544/3415294",
 "inter_admob": "ca-app-pub-2077548239432877/2853999633",
 "native_admob": "ca-app-pub-3940256099942544/6397111",
-"banner_admob": "ca-app-pub-2077548239432877/50635615",
+"banner_admob": "ca-app-pub-2077548239432877/5063577615",
 "native_admob22": "ca-app-pub-3940256099942544/2796110",
 "native_admob33": "ca-app-pub-3940256099942544/2296110",
 "rewar_admob": "ca-app-pub-3940256099942544/52254917",
 "idads_iron": "13878b1",
-"on_inter": "on",
+"on_inter": "off",
 "on_inapp": "on",
-"on_close": "on"
+"on_close": "off"
 }
 ]
