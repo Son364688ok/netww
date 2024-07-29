@@ -1,9 +1,5 @@
-
 [
-  {
-    "result": "ok",
-    "data": [
-      {
+{
         "id": "13076",
         "title": "a829e19048479629344cc03b3b4fca84",
         "image": "https://clothes.mobilealchemy.co/tshirts-previews/a829e19048479629344cc03b3b4fca84.png",
@@ -244,5 +240,4 @@
         ]
       }
     ]
-  }
-]
+  
