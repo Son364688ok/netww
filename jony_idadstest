@@ -17,7 +17,7 @@
 "banner_admob33": "ca-app-pub-3940256099942544/9214589741",
 "idads_iron": "13878b1",
 "on_inter": "off",
-"on_inapp": "off",
+"on_inapp": "on",
 "on_close": "off"
 }
 ]
